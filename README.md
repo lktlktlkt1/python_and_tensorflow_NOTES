@@ -1,2 +1,2 @@
 # python_and_tensorflow_NOTES
-AIT102 NOTES
+This is for my course in 2024/09 semester # python_and_tensorflow_NOTES
